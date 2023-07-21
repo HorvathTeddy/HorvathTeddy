@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Sync](https://github.com/HorvathTeddy/Sync)
 
-- 👨‍💻 All of my projects are available at [https://tjhorvath.netlify.app/](https://tjhorvath.com/)
+- 👨‍💻 All of my projects are available at [https://tjhorvath.com/](https://tjhorvath.com/)
 
 - 💬 Ask me about **Web Development, MERN**
 
